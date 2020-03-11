@@ -4,15 +4,15 @@ html {
 
 .btn {
   background-color: limegreen;
-  border-color: limegreen;
+  border-color: limegreen
 }
 
 .btn-ghost {
-  background-color: transparent;
+  background-color: transparent
 }
 
 .btn-light {
-  background-color: lightgreen;
+  background-color: lightgreen
   border-color: lightgreen;
 }
 
@@ -20,6 +20,3 @@ html {
   background-color: darkgreen;
   border-color: darkgreen;
 }
-
-.btn-ghost:hover {
-  background-color: transparent;
