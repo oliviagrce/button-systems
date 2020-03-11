@@ -4,11 +4,11 @@ html {
 
 .btn {
   background-color: limegreen;
-  border-color: limegreen
+  border-color: limegreen;
 }
 
 .btn-ghost {
-  background-color: transparent
+  background-color: transparent;
 }
 
 .btn-light {
